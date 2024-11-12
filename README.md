@@ -1,1 +1,2 @@
 # Banking-Management-System
+The Banking Management System website is a comprehensive platform designed to manage and streamline essential banking operations.This web application provides a user-friendly interface for both customers and bank administrators. Key features include account creation, secure login, balance inquiries, fund transfers, and transaction history. Administrators can monitor customer accounts, approve transactions, and generate reports.
